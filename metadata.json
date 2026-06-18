@@ -1,0 +1,8 @@
+{
+  "name": "Maison Boutique",
+  "description": "An exquisite single-page e-commerce boutique featuring warm-neutral cream backgrounds, sage accents, custom animations, fluid shopping carts, and detailed interactive product shelves.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
